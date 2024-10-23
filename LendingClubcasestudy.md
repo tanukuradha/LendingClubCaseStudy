@@ -31,4 +31,4 @@ LENDING CLUB LOAN ANALYSIS
 - The dataset used in this project was sourced from a Upgrad.
 
 ## Contact
-Created by [@yourgithubusername] - feel free to contact me!
+Created by @tanukuradha - feel free to contact me!
